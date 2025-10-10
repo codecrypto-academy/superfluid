@@ -143,7 +143,7 @@ El CFA es el modulo de Superfluid que gestiona los streams. Cuando creas un flow
 
 1. **Levantar Anvil con fork de mainnet**
    ```bash
-   anvil --fork-url https://eth-mainnet.g.alchemy.com/v2/YOUR_KEY
+   anvil --chain-id 31337 --fork-url https://eth-mainnet.g.alchemy.com/v2/YOUR_KEY
    ```
 
 2. **Desplegar contratos**
