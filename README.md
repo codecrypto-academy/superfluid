@@ -1,3 +1,5 @@
+
+
 # Superfluid EUR Streaming Application
 
 Aplicación de streaming de tokens EUR usando Superfluid Protocol con frontend en Next.js 15.
@@ -195,3 +197,4 @@ Cálculo: `2000 * 10^18 / (30 * 24 * 60 * 60) = 771604938271604 wei/segundo`
 
 - Smart Contracts: MIT
 - Web App: MIT
+
