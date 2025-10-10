@@ -199,7 +199,6 @@ Este proyecto simula casos de uso reales como:
 
 - Este proyecto usa un fork de mainnet en Anvil, por lo que tiene acceso a todos los contratos de Superfluid desplegados en mainnet
 - La cuenta de desarrollo tiene una private key publica (solo para testing local)
-- Los contratos estan en Chain ID 1 (mainnet fork), no 31337
 - El streaming consume tokens en tiempo real, asegurate de tener suficiente balance en EURx
 
 ## Contribuciones
