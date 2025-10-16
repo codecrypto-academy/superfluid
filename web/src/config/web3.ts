@@ -2,10 +2,9 @@
  * Web3 Configuration
  * Update these addresses after deployment
  */
-
-// Deployed contract addresses
 export const euroAddress = '0x6384D5F8999EaAC8bcCfae137D4e535075b47494';
 export const euroXAddress = '0x357f63DB7C18C99051f9507532F426c2A070975a';
+// Deployed contract addresses
 // Superfluid Framework addresses (mainnet - available via Anvil fork)
 export const superfluidConfig = {
   resolver: '0xeE4cD028f5fdaAdeA99f8fc38e8bA8A57c90Be53',
